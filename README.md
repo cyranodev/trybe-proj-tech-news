@@ -1,11 +1,7 @@
 #### <a name="top"></a> This repo is a clone of an individual project part of [Trybe](https://www.betrybe.com/) junior web developer course.
-##### https://www.betrybe.com/ (in Portuguese)
+##### https://www.betrybe.com/ (in Portuguese)  
 
-# Tech News
-
-![!project status](https://img.shields.io/badge/status-development-yellow)
-
-
+# Tech News ![!project status](https://img.shields.io/badge/status-development-yellow)   ![!python](https://img.shields.io/badge/python-3.6-green) ![!black](https://img.shields.io/badge/black-20.8b1-red) ![!flake8](https://img.shields.io/badge/flake8-3.8.4-blue) ![!pytest](https://img.shields.io/badge/pytest-6.1-orange) 
 - [Requisites](#requisites)
 - [Instructions](#instructions)
 
@@ -37,9 +33,12 @@ Original requirements and instructions (in Portuguese) for the project are [**he
 
 Be sure to have Python installed in your system.
 
-Go to the project folder and run phyton's command to install. **For example** (in Ubuntu):
-`python3 -m venv .venv && source .venv/bin/activate` to start a virtual environment
-`python3 -m pip install -r dev-requirements.txt`
+Go to the project folder, start a virtual environment, and run phyton's default command to install.  
+**Example** (in Ubuntu):  
+```bash
+python3 -m venv .venv && source .venv/bin/activate
+python3 -m pip install -r dev-requirements.txt
+```
 
 To **run** the app:
 ```bash
