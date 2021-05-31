@@ -49,7 +49,7 @@ tech-news-analyzer
 
 To run **tests** (within project folder):
 ```bash
-$ python3 -m pytest
+python3 -m pytest
 ```
 
 #### Important: mongoDB services must be installed and active in your machine.
