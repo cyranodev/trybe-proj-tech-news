@@ -2,7 +2,11 @@
 ##### https://www.betrybe.com/ (in Portuguese)  
 
 # Tech News 
-![!project status](https://img.shields.io/badge/status-development-yellow?style=flat&logo=visual-studio-code) ![!python](https://img.shields.io/badge/python-3.6-green?style=flat&logo=python) ![!black](https://img.shields.io/badge/black-20.8b1-red?style=flat) ![!flake8](https://img.shields.io/badge/flake8-3.8.4-blue?style=flat) ![!pytest](https://img.shields.io/badge/pytest-6.1-orange?style=flat) 
+![!project status](https://img.shields.io/badge/status-development-yellow?style=flat&logo=visual-studio-code)   
+![!python](https://img.shields.io/badge/python-3.6-green?style=flat&logo=python)
+![!black](https://img.shields.io/badge/black-20.8b1-red?style=flat)
+![!flake8](https://img.shields.io/badge/flake8-3.8.4-blue?style=flat)
+![!pytest](https://img.shields.io/badge/pytest-6.1-orange?style=flat) 
 
 - [Requisites](#requisites)
 - [Instructions](#instructions)
